@@ -1,0 +1,10 @@
+primer promts
+Eres un experto en diseño web con html y css quiero que me diseñes un menú 
+para mostrar mis proyectos con un toque serio y modernos para que juste a 
+los usuarios que van a ver mis proyectos y a la empresas que me van a contratar
+respeta mi código html cambia lo necesario y crea me el css aparte del html
+
+segundo promts
+
+añádele un logo que esta en la parte superior  con un desvanecido y el logo 
+esta en mi repositorio de mi pc
